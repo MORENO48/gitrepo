@@ -1,0 +1,29 @@
+commit 1e9bcc88f33d9d7142d2d490f038a4855bc1d61e
+Author: PEDRO VIDAL <morenovidalin@gmail.com>
+Date:   Tue Jul 4 09:53:48 2017 -0600
+
+    integracion de boostrap
+
+commit e7270d2e5099f0eb3af91e3319312bf43b0e2612
+Author: PEDRO VIDAL <morenovidalin@gmail.com>
+Date:   Tue Jul 4 09:49:28 2017 -0600
+
+    se agrego footer
+
+commit 3e927fd6fd422a485945021142085dce6b0a2104
+Author: PEDRO VIDAL <morenovidalin@gmail.com>
+Date:   Tue Jul 4 09:46:42 2017 -0600
+
+    se agrego imagen y descripcion a la pagina
+
+commit 65d5494b3e5126d1b8d48eeece4404e247680fc1
+Author: PEDRO VIDAL <morenovidalin@gmail.com>
+Date:   Tue Jul 4 09:41:03 2017 -0600
+
+    se agrego titulo de la pagina
+
+commit 220f9f6a3e54a109375ac369785a924755b14582
+Author: PEDRO VIDAL <morenovidalin@gmail.com>
+Date:   Tue Jul 4 09:37:55 2017 -0600
+
+    mensaje1
